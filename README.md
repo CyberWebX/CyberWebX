@@ -1,12 +1,12 @@
 ### Hola, soy Mario Rovira.  👋
-Soy Ingeniero de Sistemas, Desarrolador Web y Docente.
+
 
 - 🔭 Actualmente trabajo en  un sistema para una fundacion deportiva
 
 
 <!--
 **CyberWebX/CyberWebX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Soy Ingeniero de Sistemas, Desarrolador Web y Docente.
 Here are some ideas to get you started:
 
 - 🔭 Actualmente trabajo en  ...
